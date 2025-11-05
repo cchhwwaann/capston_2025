@@ -1,0 +1,3 @@
+capston_excavator_assembly
+https://cad.onshape.com/documents/9329bfcc9fccc9e35bbc5d01/w/ad33ebffda89ed5daf964d83/e/949293fcbc9a6eb52f5498f3?renderMode=0&uiState=690b331797a49cb2fbb4f3e1
+

@@ -25,8 +25,8 @@
 
 // HX711 모듈에 연결된 핀을 정의합니다.
 // 아두이노의 아날로그 핀도 디지털 I/O로 사용할 수 있습니다.
-const int LOADCELL_DOUT_PIN = A0; // DT 핀
-const int LOADCELL_SCK_PIN = A1;  // SCK 핀
+const int LOADCELL_DOUT_PIN = 3; // DT 핀
+const int LOADCELL_SCK_PIN = 2;  // SCK 핀
 
 // HX711 객체를 생성합니다.
 HX711 scale;

@@ -1,6 +1,0 @@
-path: .          # 데이터셋 루트 (지금 이 폴더)
-train: images/train
-val: images/val
-
-names:
-  0: bucket
